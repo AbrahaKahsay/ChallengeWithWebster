@@ -1,5 +1,22 @@
-# FCC Test Suite Template
+## Getting Started 
+1. To start using this repo clone this project 
+``` 
+git clone https://github.com/AbrahaKahsay/ChallengeWithWebster.git
+```
 
-**Fork** this project (do not open a Pull Request) to start working on any of freeCodeCamp's responsive web design course projects. Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.
+2. Navigate into the directory to access our first task under the `main` branch
+```
+cd project3
+```
 
-You don't know how to fork a project? [Click hear](https://help.github.com/articles/fork-a-repo/) to learn how to do it.
+3. Now run the project by clicking on index.html then open it with your preferred browser
+
+4. To access the second task checkout to the `landing` branch
+
+```
+git checkout landing 
+```
+
+5. Now run the project by clicking on index.html then open it with your preferred browser
+
+Enjoy!
