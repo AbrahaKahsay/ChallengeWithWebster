@@ -6,7 +6,7 @@ git clone https://github.com/AbrahaKahsay/ChallengeWithWebster.git
 
 2. Navigate into the directory to access our first task under the `main` branch
 ```
-cd project3
+cd ChallengeWithWebster
 ```
 
 3. Now run the project by clicking on index.html then open it with your preferred browser
